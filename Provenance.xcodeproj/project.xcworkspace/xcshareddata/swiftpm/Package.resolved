@@ -1,0 +1,58 @@
+{
+  "pins" : [
+    {
+      "identity" : "altkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rileytestut/AltKit",
+      "state" : {
+        "revision" : "f799f60ef6fa8b9676b4102b7dfa169fb40b6c92",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "appcenter-sdk-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/appcenter-sdk-apple.git",
+      "state" : {
+        "revision" : "1120c26835925f8314d035127c580bc71689c620",
+        "version" : "5.0.4"
+      }
+    },
+    {
+      "identity" : "plcrashreporter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/PLCrashReporter.git",
+      "state" : {
+        "revision" : "1aed8f7dc79ce8e674c61e430ef51ca3db18cea9",
+        "version" : "1.11.1"
+      }
+    },
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a81b7367f2c46875f29577e03a60c39cdfad0c8d"
+      }
+    },
+    {
+      "identity" : "steamcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Provenance-Emu/SteamController.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "55d2fe0484f4cc5ed3535033af6b0218621e37b2"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect",
+      "state" : {
+        "revision" : "d3cbf32788250741d397cfb5bcd532c37aa1096d"
+      }
+    }
+  ],
+  "version" : 2
+}
